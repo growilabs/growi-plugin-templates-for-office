@@ -1,5 +1,5 @@
 # TEMPLATE
-## 見出し this is dev branch
+## 見出し this is dev branch tag one
 - 読み手（＝ターゲットとなる顧客）が理解できるように商品名をつける。
 
 ### 副見出し
