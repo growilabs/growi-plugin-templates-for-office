@@ -1,26 +1,26 @@
 # Heading
-- Make a product name that readers (or target consumers) can understand. 
+- Make a product name that readers (or target consumers) can easily understand
 
 ## Subheading
-- Explain who the target is and what the benefits are. Simplify into one sentence below the title.
+- Explain who the target is and what the benefits are
 
 # Overview
-- Provide an overview of the product and its benefits. Provide clear information in case the readers do not know the product.
+- Provide an overview of the product
 
 # Issues
-- Describe the problems that the product solves.
+- Describe the problems that the product solves
 
 # Solutions
-- Explain how your product solves the problems.
+- Explain how your product solves these problems
 
-# Words
-- e.g. "Put what your company's public relations manager says".
+# Message
+- Put what your company's public relations manager says
 
 # How to Start
-- Explain how easy it is to get started.
+- Explain how to access the product
 
-# Clients' Messages
-- Describe how the anticipated customers experienced the benefits of the product.
+# Clients' Voices
+- Describe how the anticipated customers experienced about the product
 
-# Summary & Next Actions
-- In conclusion, show the readers next direction to take.
+# Summary
+- Summarize the product and call out to readers
