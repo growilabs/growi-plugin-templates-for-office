@@ -6,7 +6,7 @@
 -  xx/xx/xx 〇〇時 ～ 〇〇時  
 
 <span class="badge badge-danger">重要</span>
-**5分前**には会場に集まっていただくようにお願いします！！
+**5分前**には会場にお集まりください
 
 
 ## 場所
@@ -36,7 +36,7 @@
 ## :stopwatch: 日程 :stopwatch:
 ### xx/xx/xx 〇〇時 ～ 〇〇時  
 <span class="badge badge-danger">重要</span>
-**5分前**には会場に集まっていただくようにお願いします！！
+**5分前**には会場にお集まりください
 
 ## :snowflake: 会場 :snowflake: 
 〇階　〇〇会議室
