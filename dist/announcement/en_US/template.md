@@ -10,7 +10,7 @@ Please gather at the meeting place **five minutes** before the event!!
 
 
 ## Location
-- X floor　XX Meeting Room
+- X floor XX Meeting Room
 
 
 ## Time Table
@@ -39,7 +39,7 @@ Overview: Explanation for the Announcement
 Please gather at the meeting place **five minutes** before the event!!
 
 ## :snowflake: Location :snowflake: 
-X floor　XX Meeting Room
+X floor XX Meeting Room
 
 ## :wine_glass:  Time Table :wine_glass:
 | Time         | Event               |
