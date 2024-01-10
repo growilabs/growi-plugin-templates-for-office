@@ -1,4 +1,29 @@
-# GROWI Plugin Templates for Office
+## GROWI Plugin Templates for Office
 
-- conference.md
-- pressrelease.md
+- パッケージに含まれているテンプレート （URL からサンプルを確認できます）
+  - **社内お知らせ** 📝
+    - [https://demo.growi.org/6569836bf63a2d28f6382497#日本語版](https://demo.growi.org/6569836bf63a2d28f6382497#日本語版)
+  - **社内用ブログ構成書** 📒
+    - [https://demo.growi.org/65698389f63a2d28f63826b4#日本語版](https://demo.growi.org/65698389f63a2d28f63826b4#日本語版)
+  - **緊急連絡網** 🗣
+    - [https://demo.growi.org/656983adf63a2d28f63828eb#日本語版](https://demo.growi.org/656983adf63a2d28f63828eb#日本語版)
+  - **プレスリリース** 📣
+    - [https://demo.growi.org/6572a8b59bc15872a7ec686e#日本語版](https://demo.growi.org/6572a8b59bc15872a7ec686e#日本語版)
+- 対応言語
+  - 日本語、英語、中国語
+- プラグインのインストール方法
+  - [https://docs.growi.org/ja/admin-guide/management-cookbook/plugins.html#プラグインのインストール方法](https://docs.growi.org/ja/admin-guide/management-cookbook/plugins.html#プラグインのインストール方法)
+----
+- The following templates are included in the package (Check samples from the following URLs)
+  - **Announcement** 📝
+    - [https://demo.growi.org/6569836bf63a2d28f6382497#english-version](https://demo.growi.org/6569836bf63a2d28f6382497#english-version)
+  - **Blog Content Plan** 📒
+    - [https://demo.growi.org/65698389f63a2d28f63826b4#english-version](https://demo.growi.org/65698389f63a2d28f63826b4#english-version)
+  - **Company Emergency Contact Sheet** 🗣
+    - [https://demo.growi.org/656983adf63a2d28f63828eb#english-version](https://demo.growi.org/656983adf63a2d28f63828eb#english-version)
+  - **Press Release** 📣
+    - [https://demo.growi.org/6572a8b59bc15872a7ec686e#english-version](https://demo.growi.org/6572a8b59bc15872a7ec686e#english-version)
+- Supported Languages
+  - Japanese, English, Mandarin
+- How to Install Plugins
+  - [https://docs.growi.org/en/admin-guide/management-cookbook/plugins.html#how-to-install-plugins](https://docs.growi.org/en/admin-guide/management-cookbook/plugins.html#how-to-install-plugins)
